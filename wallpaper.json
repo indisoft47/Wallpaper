@@ -1,44 +1,24 @@
 {
-"Wallpaper": [
-	{
-		"name": "Lights",
-		"author": "",
-		"url": "https://github.com/indisoft47/Wallpaper/blob/master/citylight.jpeg"
-    },
+  "wallpapers": [
     {
+            "name": "Mountains",
+            "author": "Brady Bellini",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/mountains.png"
+        },
+        {
+            "name": "Lake",
+            "author": "Nathan Anderson",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/lake.jpg"
+        },
+        {
+            "name": "Stairs",
+            "author": "Geran de Klerk",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/stairs.jpg"
+        },
+		{
 		"name": "Beach",
-		"author": "",
+		"author": "vb",
 		"url": "https://github.com/indisoft47/Wallpaper/blob/master/pexels-photo-1123484.jpeg"
-	},
-    {
-		"name": "Aurora",
-		"author": "",
-		"url": "https://github.com/indisoft47/Wallpaper/blob/master/pexels-photo-1434608.jpeg"
-	},
-    {
-		"name": "Blurryglow",
-		"author": "",
-		"url": "https://github.com/indisoft47/Wallpaper/blob/master/pexels-photo-1455986.jpeg"
-	},
-    {
-		"name": "CityBlue",
-		"author": "",
-		"url": "https://github.com/indisoft47/Wallpaper/blob/master/pexels-photo-1470405.jpeg"
-	},
-    {
-		"name": "Colorfull",
-		"author": "",
-		"url": "https://github.com/indisoft47/Wallpaper/blob/master/pexels-photo-1477459.jpeg"
-	},
-    {
-		"name": "Glacier",
-		"author": "",
-		"url": "https://github.com/indisoft47/Wallpaper/blob/master/pexels-photo-1500121.jpeg"
-	},
-	{
-		"name": "Abstruct",
-		"author": "",
-		"url": "https://github.com/indisoft47/Wallpaper/blob/master/pexels-photo-1449823.jpeg"
 	}
-]
+  ]
 }
