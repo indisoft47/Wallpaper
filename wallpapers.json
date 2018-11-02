@@ -2,59 +2,67 @@
 	"wallpapers": [
 		{
 			"name": "citylight",
-			"author": "af",
+			"author": "Anonym",
+			"thumbnail": "https://github.com/indisoft47/Wallpapercitylight_.jpeg",
 			"url": "https://github.com/indisoft47/Wallpapercitylight.jpeg",
 			"dimensions": "940 x 627",
-			"copyright": "Copyrught a.g 2018"
+			"copyright": "Copyright a.g 2018"
 		},
 		{
 			"name": "pexels-photo-1123484",
-			"author": "af",
+			"author": "Anonym",
+			"thumbnail": "https://github.com/indisoft47/Wallpaperpexels-photo-1123484_.jpeg",
 			"url": "https://github.com/indisoft47/Wallpaperpexels-photo-1123484.jpeg",
 			"dimensions": "1920 x 1279",
-			"copyright": "Copyrught a.g 2018"
+			"copyright": "Copyright a.g 2018"
 		},
 		{
 			"name": "pexels-photo-1434608",
-			"author": "af",
+			"author": "Anonym",
+			"thumbnail": "https://github.com/indisoft47/Wallpaperpexels-photo-1434608_.jpeg",
 			"url": "https://github.com/indisoft47/Wallpaperpexels-photo-1434608.jpeg",
 			"dimensions": "1920 x 1277",
-			"copyright": "Copyrught a.g 2018"
+			"copyright": "Copyright a.g 2018"
 		},
 		{
 			"name": "pexels-photo-1449823",
-			"author": "af",
+			"author": "Anonym",
+			"thumbnail": "https://github.com/indisoft47/Wallpaperpexels-photo-1449823_.jpeg",
 			"url": "https://github.com/indisoft47/Wallpaperpexels-photo-1449823.jpeg",
 			"dimensions": "1920 x 1280",
-			"copyright": "Copyrught a.g 2018"
+			"copyright": "Copyright a.g 2018"
 		},
 		{
 			"name": "pexels-photo-1455986",
-			"author": "af",
+			"author": "Anonym",
+			"thumbnail": "https://github.com/indisoft47/Wallpaperpexels-photo-1455986_.jpeg",
 			"url": "https://github.com/indisoft47/Wallpaperpexels-photo-1455986.jpeg",
 			"dimensions": "1920 x 1280",
-			"copyright": "Copyrught a.g 2018"
+			"copyright": "Copyright a.g 2018"
 		},
 		{
 			"name": "pexels-photo-1470405",
-			"author": "af",
+			"author": "Anonym",
+			"thumbnail": "https://github.com/indisoft47/Wallpaperpexels-photo-1470405_.jpeg",
 			"url": "https://github.com/indisoft47/Wallpaperpexels-photo-1470405.jpeg",
 			"dimensions": "1920 x 1280",
-			"copyright": "Copyrught a.g 2018"
+			"copyright": "Copyright a.g 2018"
 		},
 		{
 			"name": "pexels-photo-1477459",
-			"author": "af",
+			"author": "Anonym",
+			"thumbnail": "https://github.com/indisoft47/Wallpaperpexels-photo-1477459_.jpeg",
 			"url": "https://github.com/indisoft47/Wallpaperpexels-photo-1477459.jpeg",
 			"dimensions": "1280 x 1920",
-			"copyright": "Copyrught a.g 2018"
+			"copyright": "Copyright a.g 2018"
 		},
 		{
 			"name": "pexels-photo-1500121",
-			"author": "af",
+			"author": "Anonym",
+			"thumbnail": "https://github.com/indisoft47/Wallpaperpexels-photo-1500121_.jpeg",
 			"url": "https://github.com/indisoft47/Wallpaperpexels-photo-1500121.jpeg",
 			"dimensions": "1280 x 1600",
-			"copyright": "Copyrught a.g 2018"
+			"copyright": "Copyright a.g 2018"
 		}
 	]
 }
