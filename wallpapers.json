@@ -167,6 +167,29 @@
 			"thumbnail": "https://github.com/indisoft47/Wallpaper/raw/master/1%20(9)_.jpeg",
 			"dimensions": "1280 x 1932",
 			"copyright": "Copyright a.g 2018"
+		},
+		{
+			"name": "vector 1",
+			"author": "123freevectors",
+			"url": "https://github.com/indisoft47/Wallpaper/raw/master/v1.jpeg",
+			"thumbnail": "https://github.com/indisoft47/Wallpaper/raw/master/v1_.png",
+			"dimensions": "2220 x 1932",
+			"copyright": "Copyright a.g 2018"
+		},
+		{
+			"name": "vector 2",
+			"author": "123freevectors",
+			"url": "https://github.com/indisoft47/Wallpaper/raw/master/w1.jpeg",
+			"thumbnail": "https://github.com/indisoft47/Wallpaper/raw/master/w1_.png",
+			"dimensions": "2220 x 1932",
+			"copyright": "Copyright a.g 2018"
+		},
+		{
+			"name": "vector 3",
+			"author": "123freevectors",
+			"url": "https://github.com/indisoft47/Wallpaper/raw/master/w2.jpeg",
+			"thumbnail": "https://github.com/indisoft47/Wallpaper/raw/master/w2_.png",
+			"dimensions": "2220 x 1932",
+			"copyright": "Copyright a.g 2018"
 		}
-	]
 }
